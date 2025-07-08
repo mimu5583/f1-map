@@ -1,3 +1,9 @@
-h1, p {
+h1 {
     text-align: center;
+    color: darkred;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
 }
