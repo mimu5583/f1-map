@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Louis Vuitton Australian Grand Prix",
+    "slug": "australia"
+  },
+  {
+    "name": "Heineken Chinese Grand Prix",
+    "slug": "china"
+  },
+  {
+    "name": "Lenovo Japanese Grand Prix",
+    "slug": "japan"
+  },
+  {
+    "name": "Gulf Air Bahrain Grand Prix",
+    "slug": "bahrain"
+  },
+  {
+    "name": "STC Saudi Arabian Grand Prix",
+    "slug": "saudi-arabia"
+  },
+  {
+    "name": "Crypto.com Miami Grand Prix",
+    "slug": "miami"
+  },
+  {
+    "name": "AWS Gran Premio Del Made In Italy E Dell'emilia-romagna",
+    "slug": "emilia-romagna"
+  },
+  {
+    "name": "Tag Heuer Grand Prix De Monaco",
+    "slug": "monaco"
+  },
+  {
+    "name": "Aramco Gran Premio De Espana",
+    "slug": "spain"
+  },
+  {
+    "name": "Pirelli Grand Prix Du Canada",
+    "slug": "canada"
+  },
+  {
+    "name": "MSC Cruises Austrian Grand Prix",
+    "slug": "austria"
+  },
+  {
+    "name": "Qatar Airways British Grand Prix",
+    "slug": "britain"
+  },
+  {
+    "name": "Moet & Chandon Belgian Grand Prix",
+    "slug": "belgium"
+  },
+  {
+    "name": "Lenovo Hungarian Grand Prix",
+    "slug": "hungary"
+  },
+  {
+    "name": "Heineken Dutch Grand Prix",
+    "slug": "netherlands"
+  },
+  {
+    "name": "Pirelli Gran Premio D'italia",
+    "slug": "italy"
+  },
+  {
+    "name": "Qatar Airways Azerbaijan Grand Prix",
+    "slug": "azerbaijan"
+  },
+  {
+    "name": "Singapore Airlines Singapore Grand Prix",
+    "slug": "singapore"
+  },
+  {
+    "name": "MSC Cruises United States Grand Prix",
+    "slug": "united-states"
+  },
+  {
+    "name": "Gran Premio De La Ciudad De Mexico",
+    "slug": "mexico"
+  },
+  {
+    "name": "MSC Cruises Grande Premio De Sao Paulo",
+    "slug": "brazil"
+  },
+  {
+    "name": "Heineken Las Vegas Grand Prix",
+    "slug": "las-vegas"
+  },
+  {
+    "name": "Qatar Airways Qatar Grand Prix",
+    "slug": "qatar"
+  },
+  {
+    "name": "Etihad Airways Abu Dhabi Grand Prix",
+    "slug": "abu-dhabi"
+  }
+]

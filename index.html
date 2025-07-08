@@ -1,11 +1,30 @@
+<!-- To local host and check, run: python -m http.server 8000 -->
+<!-- Then go to the following link in browser: http://localhost:8000 -->
+
 <!DOCTYPE html>
 <html>
 <head>
     <link rel="stylesheet" href="style.css">
     <title> F1 Map Visualizer </title>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Visualizing Formula One tracks on a globe" />
+    <meta name="keywords" content="F1, Formula One, Tracks, Race Tracks" />
+    <meta name="author" content="Michael Munhbold" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
 <body>
-    <h1> F1 Map Visualizer </h1>
-    <p> A project to showcase F1 tracks on the map </p>
+    <div class="top-nav">
+        <a href="#home" class="active" id="homeButton"> F1 Map Visualizer </a>
+        <div class="dropdown">
+            <button class="dropdownButton"> Tracks <i class="fa fa-caret-down"></i> </button>
+            <div class="dropdownContent" id="dropdownCont">
+                <!-- trackloader.js will insert links here -->
+            </div>
+        </div>
+        <a href="#about" id="aboutButton"> About </a>
+        <a href="#author" id="authorButton"> Author </a>
+    </div>
+
+    <script src="trackloader.js"></script>
 </body>
 </html>

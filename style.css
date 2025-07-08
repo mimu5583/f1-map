@@ -1,9 +1,99 @@
-h1 {
-    text-align: center;
-    color: darkred;
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+/*
+    Colors:
+    Midnight Blue: #14141e
+    Red: #F70D1A
+    Gold: #FFD703
+    White
+*/
+
+html {
+    background-color: #14141e;
 }
 
-p {
+body{
+    margin: 0;
+    font-family: 'Orbitron', Arial;
+}
+
+.top-nav {
+    overflow: hidden;
+    border-bottom: 2px solid #65666f;
+}
+
+.top-nav a{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 15px;
     text-align: center;
     font-weight: bold;
+    color: white;
+}
+
+.top-nav a.active {
+    color: #F70D1A;
+}
+
+.top-nav a:hover {
+    color: #FFD703;
+}
+
+#homeButton {
+    float: left;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropdownButton {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 15px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    border: none;
+    outline: none;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.dropdown .dropdownButton:hover {
+    color: #FFD703;
+}
+
+.dropdownContent {
+    display: none;
+    position: absolute;
+    background-color: inherit;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border: 2px solid #65666f;
+}
+
+.dropdownContent a {
+    text-decoration: none;
+    font-size: 14px;
+    padding: 10px 15px;
+    text-align: center;
+    color: white;
+    float: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdownContent a:hover {
+  color: #FFD703A;
+}
+
+.dropdown:hover .dropdownContent {
+    display: block;
+}
+
+#aboutButton, #authorButton {
+    float: right;
 }

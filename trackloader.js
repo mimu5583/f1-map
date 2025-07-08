@@ -1,0 +1,19 @@
+document.addEventListener("DOMContentLoaded", function () {
+    fetch('tracks.json')
+        .then(response => {
+            if (!response.ok) throw new Error("Failed to load track names");
+            return response.json();
+        })
+        .then(tracks => {
+            const dropdown = document.getElementById("dropdownCont");
+            tracks.forEach(track => {
+                const link = document.createElement('a');
+                link.href = `track-pages/${track.slug}.html`;
+                link.textContent = track.name;
+                dropdown.appendChild(link);
+            });
+        })
+        .catch(error => {
+        console.error("Error loading track names: ", error);
+    });
+});
