@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    fetch('tracks.json')
+    fetch('https://raw.githubusercontent.com/mimu5583/f1-map/main/tracks.json')
         .then(response => {
             if (!response.ok) throw new Error("Failed to load track names");
             return response.json();
