@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
             const dropdown = document.getElementById("dropdownCont");
             tracks.forEach(track => {
                 const link = document.createElement('a');
-                link.href = `track-pages/${track.slug}.html`;
+                link.href = `/tracks/${track.slug}/`;
                 link.textContent = track.name;
                 dropdown.appendChild(link);
             });
