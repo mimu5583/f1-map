@@ -1,98 +1,170 @@
 [
   {
     "name": "Louis Vuitton Australian Grand Prix",
-    "slug": "australia"
+    "slug": "australia",
+    "lat": -37.8504,
+    "lng": 144.9698,
+    "country":  "Australia"
   },
   {
     "name": "Heineken Chinese Grand Prix",
-    "slug": "china"
+    "slug": "china",
+    "lat": 31.3338,
+    "lng": 121.2254,
+    "country": "China"
   },
   {
     "name": "Lenovo Japanese Grand Prix",
-    "slug": "japan"
+    "slug": "japan",
+    "lat": 34.8446,
+    "lng": 136.5379,
+    "country": "Japan"
   },
   {
     "name": "Gulf Air Bahrain Grand Prix",
-    "slug": "bahrain"
+    "slug": "bahrain",
+    "lat": 26.0321,
+    "lng": 50.5108,
+    "country": "Bahrain"
   },
   {
     "name": "STC Saudi Arabian Grand Prix",
-    "slug": "saudi-arabia"
+    "slug": "saudi-arabia",
+    "lat": 21.6482,
+    "lng": 39.1028,
+    "country": "Saudi Arabia"
   },
   {
     "name": "Crypto.com Miami Grand Prix",
-    "slug": "miami"
+    "slug": "miami",
+    "lat": 25.9594,
+    "lng": -80.2379,
+    "country": "USA - Miami"
   },
   {
     "name": "AWS Gran Premio Del Made In Italy E Dell'emilia-romagna",
-    "slug": "emilia-romagna"
+    "slug": "emilia-romagna",
+    "lat": 44.3444,
+    "lng": 11.7179,
+    "country": "Italy - Emilia Romagna"
   },
   {
     "name": "Tag Heuer Grand Prix De Monaco",
-    "slug": "monaco"
+    "slug": "monaco",
+    "lat": 43.7341,
+    "lng": 7.4217,
+    "country": "Monaco"
   },
   {
     "name": "Aramco Gran Premio De Espana",
-    "slug": "spain"
+    "slug": "spain",
+    "lat": 41.5696,
+    "lng": 2.2578,
+    "country": "Spain"
   },
   {
     "name": "Pirelli Grand Prix Du Canada",
-    "slug": "canada"
+    "slug": "canada",
+    "lat": 45.5014,
+    "lng": -73.5226,
+    "country": "Canada"
   },
   {
     "name": "MSC Cruises Austrian Grand Prix",
-    "slug": "austria"
+    "slug": "austria",
+    "lat": 47.2196,
+    "lng": 14.7651,
+    "country": "Austria"
   },
   {
     "name": "Qatar Airways British Grand Prix",
-    "slug": "britain"
+    "slug": "britain",
+    "lat": 52.0681,
+    "lng": -1.0229,
+    "country": "United Kingdom"
   },
   {
     "name": "Moet & Chandon Belgian Grand Prix",
-    "slug": "belgium"
+    "slug": "belgium",
+    "lat": 50.4445,
+    "lng": 5.9653,
+    "country": "Belgium"
   },
   {
     "name": "Lenovo Hungarian Grand Prix",
-    "slug": "hungary"
+    "slug": "hungary",
+    "lat": 47.5797,
+    "lng": 19.2474,
+    "country": "Hungary"
   },
   {
     "name": "Heineken Dutch Grand Prix",
-    "slug": "netherlands"
+    "slug": "netherlands",
+    "lat": 52.3898,
+    "lng": 4.5419,
+    "country": "Netherlands"
   },
   {
     "name": "Pirelli Gran Premio D'italia",
-    "slug": "italy"
+    "slug": "italy",
+    "lat": 45.6173,
+    "lng": 9.2814,
+    "country": "Italy - Monza"
   },
   {
     "name": "Qatar Airways Azerbaijan Grand Prix",
-    "slug": "azerbaijan"
+    "slug": "azerbaijan",
+    "lat": 40.3729,
+    "lng": 49.8531,
+    "country": "Azerbaijan"
   },
   {
     "name": "Singapore Airlines Singapore Grand Prix",
-    "slug": "singapore"
+    "slug": "singapore",
+    "lat": 1.2914,
+    "lng": 103.8578,
+    "country": "Singapore"
   },
   {
     "name": "MSC Cruises United States Grand Prix",
-    "slug": "united-states"
+    "slug": "united-states",
+    "lat": 30.1327,
+    "lng": -97.6404,
+    "country": "USA - Austin"
   },
   {
     "name": "Gran Premio De La Ciudad De Mexico",
-    "slug": "mexico"
+    "slug": "mexico",
+    "lat": 19.4055,
+    "lng": -99.0925,
+    "country": "Mexico"
   },
   {
     "name": "MSC Cruises Grande Premio De Sao Paulo",
-    "slug": "brazil"
+    "slug": "brazil",
+    "lat": -23.7046,
+    "lng": -46.6994,
+    "country": "Brazil"
   },
   {
     "name": "Heineken Las Vegas Grand Prix",
-    "slug": "las-vegas"
+    "slug": "las-vegas",
+    "lat": 36.1096,
+    "lng": -115.1620,
+    "country": "USA - Las Vegas"
   },
   {
     "name": "Qatar Airways Qatar Grand Prix",
-    "slug": "qatar"
+    "slug": "qatar",
+    "lat": 25.4885,
+    "lng": 51.4504,
+    "country": "Qatar"
   },
   {
     "name": "Etihad Airways Abu Dhabi Grand Prix",
-    "slug": "abu-dhabi"
+    "slug": "abu-dhabi",
+    "lat": 24.4696,
+    "lng": 54.6056,
+    "country": "Abu Dhabi"
   }
 ]
