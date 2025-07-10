@@ -29,7 +29,7 @@ function initMap() {
     const infoWindow = new google.maps.InfoWindow();
 
     //Load tracks.json and iterate through each in order to create markers at each location
-    fetch('tracks.json')
+    fetch('https://raw.githubusercontent.com/mimu5583/f1-map/main/tracks.json')
         .then(response => response.json())
         .then(tracks => {
             tracks.forEach(track => {
